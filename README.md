@@ -1,5 +1,7 @@
 # Currículum de Didac Ballesteros Montplet
-
+## Data de naixament: 20/12/2006
+## 6397174313
+## Carrer pertegas 13
 ## Perfil professional
 
 Jove amb ganes d'aprendre, compromès i responsable. Experiència laboral com a ajudant de cambrer i formació pràctica en el camp de la informàtica. Actualment cursant estudis relacionats amb sistemes operatius informàtics, amb especial interès en el suport tècnic i la gestió de sistemes.
